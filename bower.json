@@ -1,0 +1,10 @@
+{
+  "name": "daisywheeljs",
+  "version": "0.0.2",
+  "main": "daisywheel.js",
+  "ignore": [
+    "**/*.txt",
+    "package.json",
+    "gulpfile.js"
+  ]
+}
