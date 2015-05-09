@@ -776,3 +776,9 @@ var daisyWheel = function(_){
 
 	View.init();
 };
+
+// wait until we register the gamepad to initialize the daisywheel
+var construct = _.once(daisyWheel);
+window.addEventListener('ongamepadupdate', function(e){
+	construct(_);
+});
