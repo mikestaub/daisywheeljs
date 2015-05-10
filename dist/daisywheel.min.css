@@ -142,8 +142,9 @@
   position: relative;
   display: block;
   float: left;
-  width: 40px;
-  height: 40px;
+  width: 46px;
+  height: 46px;
+  font-size: 23px;
 }
 #daisywheel-js .control-ui-icon:before {
   position: absolute;
@@ -170,7 +171,7 @@
   text-align: left;
   text-shadow: 0 0 5px #000000;
   font-weight: bold;
-  font-size: 17px;
+  font-size: 28px;
 }
 #daisywheel-js #daisywheel-left-bumper-ui .control-ui-icon:before {
   top: 5px;
