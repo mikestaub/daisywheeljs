@@ -183,10 +183,10 @@ var daisyWheel = function(_){
 	    ],
 
 	    uiLabels: {
-	        'left-bumper': 'Backspace',
+	        'left-bumper': 'Del',
 	        'left-analog': 'Select Petal',
 	        'right-bumper': 'Space',
-	        'left-trigger': 'Numbers',
+	        'left-trigger': 'Num',
 	        'right-trigger': 'Caps'
 	    },
 

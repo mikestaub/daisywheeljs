@@ -100,12 +100,13 @@
 }
 #daisywheel-js #daisywheel-input {
   display: block;
-  height: 1em;
-  width: 370px;
+  height: 77px;
+  width: 500px;
   margin: 0 auto;
   padding: 15px;
+  padding-top: 0px;
   resize: none;
-  font-size: 22px;
+  font-size: 60px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
@@ -142,8 +143,9 @@
   position: relative;
   display: block;
   float: left;
-  width: 40px;
-  height: 40px;
+  width: 46px;
+  height: 46px;
+  font-size: 23px;
 }
 #daisywheel-js .control-ui-icon:before {
   position: absolute;
@@ -170,7 +172,7 @@
   text-align: left;
   text-shadow: 0 0 5px #000000;
   font-weight: bold;
-  font-size: 17px;
+  font-size: 28px;
 }
 #daisywheel-js #daisywheel-left-bumper-ui .control-ui-icon:before {
   top: 5px;
