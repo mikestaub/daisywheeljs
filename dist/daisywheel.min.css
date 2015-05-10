@@ -86,7 +86,7 @@
 #daisywheel-js #daisywheel-input-container {
   width: 640px;
   margin: 0 auto;
-  padding-bottom: 50px;
+  padding-bottom: 20px;
   padding-top: 35px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -100,12 +100,13 @@
 }
 #daisywheel-js #daisywheel-input {
   display: block;
-  height: 1em;
-  width: 370px;
+  height: 77px;
+  width: 500px;
   margin: 0 auto;
   padding: 15px;
+  padding-top: 0px;
   resize: none;
-  font-size: 22px;
+  font-size: 60px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
